@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="details.xsl"?>
+<catalog>
+  <cd>
+    <title>Abhijith</title>
+    <wishlist>Trivandrum</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>3</place>
+  </cd>
+  <cd>
+    <title>Ajmeer</title>
+    <wishlist>Hyderabad</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>1</place>
+    
+  </cd>
+  <cd>
+    <title>Akash</title>
+    <wishlist>Hyderabad</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>1</place>
+    
+  </cd>
+  <cd>
+    <title>Bala</title>
+    <wishlist>Delhi</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>2</place>
+  
+  </cd>
+  <cd>
+    <title>Dharanitharan</title>
+    <wishlist>Hyderabad</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>1</place>
+    <year>1997</year>
+  </cd>
+  <cd>
+    <title>Dinesh</title>
+    <wishlist>Trivandrum</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>3</place>
+    <year>1998</year>
+  </cd>
+  <cd>
+    <title>Ferozkhan</title>
+    <wishlist>Bangalore</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>5</place>
+    <year>1973</year>
+  </cd>
+  <cd>
+    <title>Guna</title>
+    <wishlist>Bangalore</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>5</place>
+    <year>1990</year>
+  </cd>
+  
+  <cd>
+    <title>Harsha</title>
+    <wishlist>Ooty</wishlist>
+    <country>India</country>
+    <department>Atlantic</department >
+    <place>4</place>
+    <year>1987</year>
+  </cd>
+
+  <cd>
+    <title>Hari Kanan</title>
+    <wishlist>Delhi</wishlist>
+    <country>India</country>
+    <department>Grammy</department >
+    <place>2</place>
+    <year>1999</year>
+  </cd>
+ 
+  <cd>
+    <title>Karthick</title>
+    <wishlist>Hyderabad</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>1</place>
+    <year>1997</year>
+  </cd>
+  <cd>
+    <title>Mothi</title>
+    <wishlist>Delhi</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>2</place>
+    <year>1971</year>
+  </cd>
+  <cd>
+    <title>Nagaraj</title>
+    <wishlist>Bangalore</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>5</place>
+    <year>1996</year>
+  </cd>
+  <cd>
+    <title>Pradeep</title>
+    <wishlist>Ooty</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>4</place>
+    <year>1990</year>
+  </cd>
+  <cd>
+    <title>Ramji</title>
+    <wishlist>Ooty</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>4</place>
+    <year>1988</year>
+  </cd>
+  <cd>
+    <title>Raghul</title>
+    <wishlist>Bangalore</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>5</place>
+    <year>1987</year>
+  </cd>
+  <cd>
+    <title>Saran</title>
+    <wishlist>Ooty</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>4</place>
+    <year>1983</year>
+  </cd>
+  <cd>
+    <title>Sarish</title>
+    <wishlist>Trivandrum</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>3</place>
+    <year>1983</year>
+  </cd>
+
+  <cd>
+    <title>Siva</title>
+    <wishlist>Ooty</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>4</place>
+    <year>1987</year>
+  </cd>
+  <cd>
+    <title>Vijay</title>
+    <wishlist>Bangalore</wishlist>
+    <country>India</country>
+    <department>IT</department >
+    <place>5</place>
+    <year>1987</year>
+  </cd>
+</catalog>
+
